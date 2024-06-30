@@ -1,32 +1,32 @@
 <!-- Change the value of lang="en" attribute if your website's language is not English.
 You can find the code of your language here - https://www.w3schools.com/tags/ref_language_codes.asp -->
 <!DOCTYPE html>
-<html lang='de'>
+<html lang='hu'>
     <head>
-        <title>Khutbah Live-Untertitel-App von BeAware</title>
-        <meta name="description" content="Khutbah Live-Untertitel für Gehörlose von BeAware">    
+        <title>Khutbah élő feliratozó alkalmazás a BeAware-től</title>
+        <meta name="description" content="Khutbah élő feliratozás süketeknek a BeAware-től">    
         <meta charset="utf-8">
         <meta name="author" content="Saamer Mansoor">
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="apple-itunes-app" content="app-id=6450253525, app-argument=web">
-        <meta name="keywords" content="Gehörlos, HoH, HardofHearing, Schwerhörig, Assistent, Android, iPhone, iOS, App, Website" />
-        <link rel="canonical" href="https://www.khutbahcaptioning.com/index-de.html">  
-        <meta property="og:site_name" content="Khutbah Live-Untertitel für Gehörlose von BeAware">
+        <meta name="keywords" content="Süket, HoH, Hallássérült, Nagyothalló, Asszisztens, Android, iPhone, iOS, Alkalmazás, Webhely" />
+        <link rel="canonical" href="https://www.khutbahcaptioning.com/index-hu.html">  
+        <meta property="og:site_name" content="Khutbah élő feliratozás süketeknek a BeAware-től">
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Khutbah Live-Untertitel von BeAware">
-        <meta name="twitter:description" content="Native Khutbah Live-Untertitelungs-Apps für gehörlose und schwerhörige Teilnehmer">
+        <meta name="twitter:title" content="Khutbah élő feliratozás a BeAware-től">
+        <meta name="twitter:description" content="Natív Khutbah élő feliratozási alkalmazások a siket és nagyothalló résztvevők kiszolgálására">
         <meta name="twitter:image" content="https://khutbahcaptioning.com/images/author.png">
         <!-- Google / Search Engine Tags -->
-        <meta itemprop="name" content="Khutbah Live-Untertitel von BeAware">
-        <meta itemprop="description" content="Native Khutbah Live-Untertitelungs-Apps für gehörlose und schwerhörige Teilnehmer">
+        <meta itemprop="name" content="Khutbah élő feliratozás a BeAware-től">
+        <meta itemprop="description" content="Natív Khutbah élő feliratozási alkalmazások a siket és nagyothalló résztvevők kiszolgálására">
         <meta itemprop="image" content="https://khutbahcaptioning.com/images/author.png">
         <!-- Facebook Open Graph -->
-        <meta property="og:url" content='https://khutbahcaptioning.com/index-de.html'>
+        <meta property="og:url" content='https://khutbahcaptioning.com'>
         <meta property="og:type" content="website">
-        <meta property="og:title" content="Khutbah Live-Untertitel für Gehörlose von BeAware">
-        <meta property="og:description" content="Native Khutbah Live-Untertitelungs-Apps für gehörlose und schwerhörige Teilnehmer">
+        <meta property="og:title" content="Khutbah élő feliratozás süketeknek a BeAware-től">
+        <meta property="og:description" content="Natív Khutbah élő feliratozási alkalmazások a siket és nagyothalló résztvevők kiszolgálására">
         <meta property="og:image" content="https://khutbahcaptioning.com/images/author.png">
         <meta name="robots" content="noodp,noydir">
           <!-- Facebook Open Graph end -->
@@ -68,15 +68,15 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         
         <div class="page-loader dark">
             <div class="loader">
-                Wird geladen...
+                Betöltés...
             </div>
         </div>
         <!-- End Page Loader -->
-        <!-- Zum Inhalt springen -->
+        <!-- Ugrás a tartalomra -->
         <a href="#main" class="btn skip-to-content">
-            Zum Inhalt springen
+            Ugrás a tartalomra
         </a>
-        <!-- End Zum Inhalt springen -->
+        <!-- End Ugrás a tartalomra -->
         <!-- Page Wrap -->
         <div class="page bg-dark light-content" id="top">
             <!-- Navigation panel -->
@@ -88,55 +88,55 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <img src="images/logo-white.svg" alt="BeAware Cofnerence Captioning company logo" width="188" height="37" />
                         </a>
                     </div>
-                    <!-- Mobile Speisekarte Button -->
+                    <!-- Mobile Menü Button -->
                     <div class="mobile-nav" role="button" tabindex="0">
                         <i class="fa fa-bars">
                         </i>
                         <span class="sr-only">
-                            Speisekarte
+                            Menü
                         </span>
                     </div>
-                    <!-- Main Speisekarte -->
+                    <!-- Main Menü -->
                     <div class="inner-nav desktop-nav">
                         <ul class="clearlist scroll-nav local-scroll">
                             <li class="active">
                                 <a href="#home">
-                                    Heim
+                                    itthon
                                 </a>
                             </li>
                             <li>
                                 <a href="#about">
-                                    Um
+                                    Ról ről
                                 </a>
                             </li>
                             <li>
                                 <a href="#features">
-                                    Merkmale
+                                    Jellemzők
                                 </a>
                             </li>
                             <li>
                                 <a href="#testimonials">
-                                    Referenzen
+                                    Beszámolók
                                 </a>
                             </li>
                             <li>
                                 <a href="#demo">
-                                    Vorschau
+                                    Előnézet
                                 </a>
                             </li>
                             <li>
                                 <a href="#pricing">
-                                    Preisgestaltung
+                                    Árazás
                                 </a>
                             </li>
                             <li>
                                 <a href="#contact">
-                                    Kontakt
+                                    Kapcsolatba lépni
                                 </a>
                             </li>
                             <!-- Languages -->
                             <li>
-                                <a href="#" class="mn-has-sub"><i class="fa-solid fa-earth-americas"></i>German <i class="fa fa-angle-down"></i></a>                                
+                                <a href="#" class="mn-has-sub"><i class="fa-solid fa-earth-americas"></i>Hungarian <i class="fa fa-angle-down"></i></a>                                
                                 <ul class="mn-sub">                                    
                                     <li><a href="index.html">English</a></li>
                                     <li><a href="index-es.html">Español</a></li>
@@ -172,18 +172,18 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <span class="btn btn-mod btn-w btn-circle">
                                         <i class="fa fa-download">
                                         </i>
-                                        Versuch's jetzt
+                                        Próbálja ki most
                                     </span>
                                 </a>
                             </li>
                         </ul>
                     </div>
-                    <!-- End Main Speisekarte -->
+                    <!-- End Main Menü -->
                 </div>
             </nav>
             <!-- End Navigation panel -->
             <main id="main">
-                <!-- Heim Section -->
+                <!-- itthon Section -->
                 <div class="home-section relative bg-dark light-content" id="home">
                     <!-- Fullwidth Slider -->
                     <div class="fullwidth-gallery-wrapper">
@@ -216,12 +216,12 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <div class="row">
                                     <div class="col-md-9 col-lg-7">
                                         <h1 class="hs-line-3 mb-30 mb-xs-20 wow fadeInUpShort" data-wow-delay=".1s">
-                                            NAHTLOSER ZUGÄNGLICHKEIT FÜR ALLE
+                                            Zökkenőmentesen elérhető MINDENKINEK
                                         </h1>
                                         <h2 class="hs-line-5 mb-60 mb-xs-40 wow fadeInUpShort" data-wow-delay=".2s">
-                                            Stärken Sie Ihr Leben persönlich
+                                            Erősítse meg a személyes életet
                                             <span class="sr-only">
-                                                Khutbahs, Khatiras, Veranstaltungen
+                                                khutbahs, khatiras, események
                                             </span>
                                             <span data-period="2800" data-type="[ "khutbahs", "khatiras", "events"]" class="typewrite" aria-hidden="true">
                                                 <span class="wrap">
@@ -229,19 +229,19 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             </span>
                                         </h2>
                                         <h3 class="hs-line-6 mb-60 mb-xs-40 wow fadeInUpShort" data-wow-delay=".2s">
-                                            Optimieren Sie die Kommunikation mit Transkriptions- und Übersetzungsdiensten in Echtzeit und arbeiten Sie kostengünstiger ohne zusätzliche Hardware.
+                                            Egyszerűsítse a kommunikációt a valós idejű átírási és fordítási szolgáltatásokkal, amely további hardverek nélkül is megfizethetőbbé válik.
                                         </h3>
                                         <div class="local-scroll wow fadeInUpShort" data-wow-delay=".3s">
                                             <a href="https://khutbahcaptioning.com/portal" class="btn btn-mod btn-w btn-medium btn-round me-md-1">
-                                                Holen Sie sich eine Demo
+                                                Szerezzen be egy demót
                                             </a>
                                             <a href="https://app.conferencecaptioning.com" class="btn btn-mod btn-w btn-medium btn-round me-md-1">
-                                                Starten Sie kostenlos durch
+                                                Kezdje el ingyen
                                             </a>
                                         </div>
                                         <br />
                                         <h3 class="section-more white mb-60 mb-xs-40 wow fadeInUpShort" data-wow-delay=".2s">
-                                            Holen Sie sich eine Demo unserer Premium-Software oder starten Sie mit kostenlosen Tools
+                                            Szerezze be prémium szoftverünk demóját, vagy kezdje el az ingyenes eszközökkel
                                         </h3>
                                     </div>
                                 </div>
@@ -254,7 +254,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     
                                     <div class="local-scroll mb-20 wow fadeInUpShort" data-wow-delay=".3s">
                                         <a href="#about" class="btn btn-mod btn-border-w btn-large btn-round mx-md-1">Learn More</a>
-                                        <a href="pages-services-1-dark.html" class="btn btn-mod btn-w btn-large btn-round mx-md-1">Start Project</a>
+                                        <a href="pages-services-1-dark.html" class="btn btn-mod btn-w btn-large btn-round mx-md-1">Rajt Project</a>
                                     </div>
                                 </div> -->
                             <!-- End Hero Content -->
@@ -264,7 +264,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <i class="scroll-down-icon">
                                     </i>
                                     <span class="sr-only">
-                                        Scrollen Sie zum nächsten Abschnitt
+                                        Görgessen a következő részhez
                                     </span>
                                 </a>
                             </div>
@@ -272,7 +272,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         </div>
                     </div>
                 </div>
-                <!-- End Heim Section -->
+                <!-- End itthon Section -->
                 <!-- Process Section -->
                 <section class="page-section bg-dark light-content">
                     <div class="container relative">
@@ -282,10 +282,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <div class="col-md-12 col-lg-3">
                                 <div class="align-left">
                                     <h2 class="work-process-heading mt-0">
-                                        Werte
+                                        Értékek
                                     </h2>
                                     <p class="work-process-description">
-                                        ZUKUNFT DER ZUGÄNGLICHKEIT UND SPRACHINKLUSIVITÄT FÜR GEHÖRHOSE
+                                        A SIKETEK ELÉRHETŐSÉGÉNEK JÖVŐJE ÉS NYELVI INKLUSIVITÁSA
                                     </p>
                                 </div>
                             </div>
@@ -300,7 +300,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </svg>
                                     </div>
                                     <h3 class="work-process-title">
-                                        Sicherstellen, dass niemand zurückbleibt
+                                        Annak biztosítása, hogy senki ne maradjon le
                                     </h3>
                                 </div>
                             </div>
@@ -315,7 +315,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </svg>
                                     </div>
                                     <h3 class="work-process-title">
-                                        Förderung der Inklusion
+                                        Az inkluzivitás elősegítése
                                     </h3>
                                 </div>
                             </div>
@@ -330,7 +330,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </svg>
                                     </div>
                                     <h3 class="work-process-title">
-                                        Kommunikationsbarrieren abbauen
+                                        A kommunikációs akadályok lebontása
                                     </h3>
                                 </div>
                             </div>
@@ -343,39 +343,39 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 <!-- Divider -->
                 <hr class="mt-0 mb-0 white" />
                 <!-- End Divider -->
-                <!-- Um Section -->
+                <!-- Ról ről Section -->
                 <section class="page-section bg-dark light-content" id="about">
                     <div class="container relative">
                         <div class="mb-140 mb-sm-70">
                             <div class="row section-text">
                                 <div class="col-md-12 col-lg-4 mb-md-50 mb-xs-30">
                                     <div class="lead-alt wow linesAnimIn" data-splitting="lines">
-                                        Präsenzveranstaltungen brauchen Barrierefreiheit
+                                        A személyes események akadálymentesítést igényelnek
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-4 mb-sm-50 mb-xs-30 wow linesAnimIn" data-splitting="lines">
-                                    10 % der Menschen sind taub oder schwerhörig. Nur weil sie sich möglicherweise nicht über die mangelnde Zugänglichkeit beschweren, heißt das nicht, dass sie nicht existieren. Ausschlüsse können zu Frustration und Trennung vom Gespräch führen.
+                                    Az emberek 10%-a siket vagy nagyothalló. Csak azért, mert esetleg nem panaszkodnak a hozzáférhetőség hiányára, még nem jelenti azt, hogy nem is léteznek. A kizárások frusztrációhoz és a beszélgetéstől való elszakadáshoz vezethetnek.
                                 </div>
                                 <div class="col-md-6 col-lg-4 mb-sm-50 mb-xs-30 wow linesAnimIn" data-splitting="lines">
-                                    Khutbah Captioning zielt darauf ab, Ungleichheiten zu verringern, indem Inklusivität und Engagement einfach umsetzbar und zugänglich gemacht werden. Machen Sie Barrierefreiheit zu einer Selbstverständlichkeit und nicht zu einem nachträglichen Gedanken
+                                    A Khutbah Captioning célja az egyenlőtlenségek csökkentése azáltal, hogy megkönnyíti az inkluzivitás és az elkötelezettség megvalósítását és elérhetőségét. Tedd a kisegítő lehetőségeket oktalansággá, ne pedig utólag
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
-                <!-- End Um Section -->
+                <!-- End Ról ről Section -->
                 <!-- Divider -->
                 <hr class="mt-0 mb-0 white" />
                 <!-- End Divider -->
-                <!-- Merkmale Section -->
+                <!-- Jellemzők Section -->
                 <section class="page-section bg-dark light-content" id="features">
                     <div class="container relative">
                         <div class="text-center mb-80 mb-sm-50">
                             <h2 class="section-title">
-                                Merkmale
+                                Jellemzők
                             </h2>
                             <p class="section-title-descr">
-                                Wir bieten die besten Eventlösungen für Moscheen.
+                                A legjobb rendezvénymegoldásokat kínáljuk mecsetek számára.
                             </p>
                         </div>
                         <!-- Services Grid -->
@@ -391,10 +391,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </svg>
                                     </div>
                                     <h3 class="services-title">
-                                        Untertitel
+                                        Feliratok
                                     </h3>
                                     <div class="services-descr">
-                                        Der schnellste Weg, Live-Untertitel zu jeder Veranstaltung hinzuzufügen. Erstellen Sie in 15 Sekunden Ihren Stream und lassen Sie die Teilnehmer Ihrem Event-Untertitel-Stream beitreten
+                                        A leggyorsabb módja annak, hogy bármilyen eseményhez élő feliratot adjon. 15 másodpercen belül hozza létre saját adatfolyamát, és a résztvevők csatlakozzanak az esemény feliratfolyamához
                                     </div>
                                     <!-- <div class="services-more">
                                             <a href="#" class="text-link">Learn More</a>
@@ -413,10 +413,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </svg>
                                     </div>
                                     <h3 class="services-title">
-                                        Anpassungen
+                                        Testreszabások
                                     </h3>
                                     <div class="services-descr">
-                                        Erstellen Sie eine individuelle Streaming-Seite, auf der Teilnehmer teilnehmen können, ohne Apps herunterladen zu müssen, indem Sie einfach Ihren QR-Code verwenden
+                                        Hozzon létre egy személyre szabott adatfolyam-oldalt, amelyhez a résztvevők csatlakozhatnak anélkül, hogy bármilyen alkalmazást letöltenének, pusztán a QR-kód használatával
                                     </div>
                                     <!-- <div class="services-more">
                                             <a href="#" class="text-link">Learn More</a>
@@ -435,10 +435,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </svg>
                                     </div>
                                     <h3 class="services-title">
-                                        Übersetzungen
+                                        Fordítások
                                     </h3>
                                     <div class="services-descr">
-                                        Präzise Übersetzungen in Echtzeit in über 25 Sprachen, inklusive individueller Sprachverstärkung für Hörgeschädigte
+                                        Pontosan, valós időben fordítson több mint 25 nyelvre, egyéni hangerősítéssel a nagyothallók számára
                                     </div>
                                     <!-- <div class="services-more">
                                             <a href="#" class="text-link">Learn More</a>
@@ -450,15 +450,15 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <!-- End Services Grid -->
                     </div>
                 </section>
-                <!-- End Merkmale Section -->
-                <!-- Referenzen Section -->
+                <!-- End Jellemzők Section -->
+                <!-- Beszámolók Section -->
                 <section class="page-section bg-dark bg-dark-alfa-50 bg-scroll light-content" data-background="images/full-width-images/section-bg-2.jpg" id="testimonials">
                     <div class="container relative">
                         <div class="row">
                             <div class=" col-lg-8 offset-lg-2 wow fadeInUpShort">
                                 <div class="text-center mb-50 mb-sm-20">
                                     <h2 class="section-title">
-                                        Was Kunden sagen
+                                        Amit az ügyfelek mondanak
                                     </h2>
                                 </div>
                                 <div class="text-slider">
@@ -466,20 +466,20 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <div>
                                         <blockquote class="testimonial">
                                             <p>
-                                                Einfach zu bedienen und einfach in unser bestehendes Setup zu integrieren.
+                                                Könnyen használható és egyszerűen integrálható meglévő rendszerünkbe.
                                             </p>
                                             <footer class="testimonial-author mt-50 mt-sm-20">
-                                                — Michael Goggins, IT-Manager. Michigan State University
+                                                – Michael Goggins, informatikai vezető. Michigan Állami Egyetem
                                             </footer>
                                         </blockquote>
                                     </div>
                                     <div>
                                         <blockquote class="testimonial">
                                             <p>
-                                                Es scheint für jede Konferenz eine Selbstverständlichkeit zu sein, diese Technologie zu nutzen, um Hörinhalte für alle Teilnehmer zugänglich zu machen
+                                                Úgy tűnik, hogy minden konferencián semmi gond ezt a technológiát használni, hogy az auditív tartalmat minden résztvevő számára elérhetővé tegye.
                                             </p>
                                             <footer class="testimonial-author mt-50 mt-sm-20">
-                                                — Tom Phillips, Programmier-Mentor. Apple Developer Academy Detroit
+                                                — Tom Phillips, programozási mentor. Apple Detroit Developer Academy
                                             </footer>
                                         </blockquote>
                                     </div>
@@ -488,7 +488,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         </div>
                     </div>
                 </section>
-                <!-- End Referenzen Section -->
+                <!-- End Beszámolók Section -->
                 <!-- Divider -->
                 <hr class="mt-0 mb-0 white" />
                 <!-- End Divider -->
@@ -514,31 +514,31 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <!-- Text -->
                             <div class="col-lg-5 wow fadeInUpShort" data-wow-duration="1.2s" data-wow-offset="255">
                                 <h2 class="section-title mb-50 mb-sm-20">
-                                    So einfach ist es
+                                    Íme, milyen egyszerű
                                 </h2>
                                 <dl class="call-action-2-text mb-60 mb-sm-30">
                                     <dt>
-                                        Schritt 1
+                                        1. lépés
                                     </dt>
                                     <dd>
-                                        Masjids/Khateebs nutzen die App, um Audio aufzunehmen und einen QR-Code zu generieren
+                                        A Masjids/Khateebs az alkalmazást használja hang rögzítésére és QR-kód generálására
                                     </dd>
                                     <dt>
-                                        Schritt 2
+                                        2. lépés
                                     </dt>
                                     <dd>
-                                        Teilnehmer scannen den QR-Code und tippen auf der zugänglichen Webseite auf „Live-Untertitel abrufen“.
+                                        A résztvevők olvassák be a QR-kódot, és érintsék meg az Élő feliratok beszerzése elemet az elérhető weboldalon
                                     </dd>
                                     <dt>
-                                        Schritt 3
+                                        3. lépés
                                     </dt>
                                     <dd>
-                                        Iss etwas Milch und Datteln. Kein Stress. Keine Sorge
+                                        Egyél egy kis tejet és datolyát. Nincs stressz. Semmi gond
                                     </dd>
                                 </dl>
                                 <div class="local-scroll">
                                     <a href="https://vimeo.com/950909503" class="btn btn-mod btn-w btn-large btn-round">
-                                        30 Second Vorschau
+                                        30 Second Előnézet
                                     </a>
                                 </div>
                             </div>
@@ -556,20 +556,20 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <div class="row wow fadeInUpShort">
                             <div class="col-md-8 offset-md-2 text-center">
                                 <h3 class="call-action-1-heading">
-                                    Gehörlose weltweit unterstützen
+                                    Siketek támogatása világszerte
                                 </h3>
                                 <div class="call-action-1-decription mb-60 mb-sm-30">
-                                    Khutbah Live Captioning wird von denselben Leuten entwickelt, die auch das preisgekrönte Programm entwickelt haben
+                                    A Khutbah élő feliratozást ugyanazok az emberek építették, akik a díjnyertes filmet
                                     <a href="https://deafassistant.com">
-                                        BeAware Deaf Assistant-App
+                                        BeAware Deaf Assistant alkalmazás
                                     </a>
                                     . 
-                                        Khutbah-Untertitel stellen sicher, dass Moscheen für die Gehörlosengemeinschaft zugänglicher sind. 
-                                        Mit Ihrer Unterstützung können wir gemeinsam das Bewusstsein für die Bedeutung der Barrierefreiheit für Gehörlose schärfen und diese tatsächlich verwirklichen. Lassen Sie uns gemeinsam dafür sorgen, dass unsere Gemeindemoscheen inklusiv, stärkend und für alle Teilnehmer wirklich zugänglich sind
+                                        A Khutbah feliratozás biztosítja, hogy a mecset könnyebben elérhető legyen a siket közösség számára. 
+                                        Az Ön támogatásával közösen hívhatjuk fel a figyelmet a siket akadálymentesítés fontosságára, és valósíthatjuk meg azt. Tegyük együtt közösségi mecseteinket befogadóvá, erőt kölcsönzővé és valóban elérhetővé minden résztvevő számára
                                 </div>
                                 <div class="local-scroll">
                                     <a href="https://app.conferencecaptioning.com" class="btn btn-mod btn-w btn-large btn-round">
-                                        Versuch's jetzt
+                                        Próbálja ki most
                                     </a>
                                 </div>
                             </div>
@@ -582,7 +582,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 <br />
                 <br />
                 <!-- End Divider -->
-                <!-- Preisgestaltung Section -->
+                <!-- Árazás Section -->
                 <section class="page-section pt-0" id="pricing">
                     <div class="container">
                         <!-- Nav Tabs -->
@@ -590,12 +590,12 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <ul class="nav nav-tabs tpl-minimal-tabs animate" id="myTab-3" role="tablist">
                                 <li class="nav-item" role="presentation">
                                     <a href="#monthly" class="nav-link" id="monthly-tab" data-bs-toggle="tab" role="tab" aria-controls="monthly" aria-selected="false">
-                                        Täglich
+                                        Napi
                                     </a>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <a href="#yearly" class="nav-link active" id="yearly-tab" data-bs-toggle="tab" role="tab" aria-controls="yearly" aria-selected="true">
-                                        Monatlich
+                                        Havi
                                     </a>
                                 </li>
                             </ul>
@@ -604,9 +604,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <!-- Tab panes -->
                         <div class="tab-content tpl-minimal-tabs-cont section-text align-center wow fadeInUpShort animated" id="myTabContent-1" style="visibility: visible; animation-name: fadeInUpShort;">
                             <div class="tab-pane fade" id="monthly" role="tabpanel" aria-labelledby="monthly-tab">
-                                <!-- Preisgestaltung row -->
+                                <!-- Árazás row -->
                                 <div class="row">
-                                    <!-- Preisgestaltung Item -->
+                                    <!-- Árazás Item -->
                                     <div class="col-md-4">
                                         <div class="pricing-item">
                                             <div class="pricing-item-inner round">
@@ -616,48 +616,48 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         <i class="fa fa-paper-plane" aria-hidden="true">
                                                         </i>
                                                     </div>
-                                                    <!-- Preisgestaltung Title -->
+                                                    <!-- Árazás Title -->
                                                     <div class="pricing-title">
-                                                        Start
+                                                        Rajt
                                                     </div>
-                                                    <!-- Preisgestaltung Merkmale -->
+                                                    <!-- Árazás Jellemzők -->
                                                     <div class="pricing-features">
                                                         <ul class="sf-list pr-list">
                                                             <li>
-                                                                Live-Transkription für Veranstaltungen
+                                                                Élő átirat az eseményekhez
                                                             </li>
                                                             <li>
-                                                                Zugang für Teilnehmer und Organisatoren
+                                                                Résztvevő és szervező hozzáférés
                                                             </li>
                                                             <li>
-                                                                16 frei verfügbare Streams
+                                                                16 szabadon elérhető stream
                                                             </li>
                                                             <li>
-                                                                15-Minuten-Limit pro Stream
+                                                                15 perces limit streamenként
                                                             </li>
                                                             <li>
-                                                                Unterstützt mehr als 20 Sprachen
+                                                                20+ nyelvet támogat
                                                             </li>
                                                             <li>
-                                                                15-sekündiges Einrichten und Benutzen mit drei Fingertipps
+                                                                15 másodperces 3 érintéssel történő beállítás és használat
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="pricing-num">
-                                                        FREI
+                                                        INGYENES
                                                     </div>
                                                     <div class="pr-per">
                                                     </div>
                                                     <!-- Button -->
                                                     <!-- <div class="pr-button">
-                                                            <a href="app/index.html" class="btn btn-mod btn-small round">Versuch's jetzt</a>
+                                                            <a href="app/index.html" class="btn btn-mod btn-small round">Próbálja ki most</a>
                                                         </div> -->
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Preisgestaltung Item -->
-                                    <!-- Preisgestaltung Item -->
+                                    <!-- End Árazás Item -->
+                                    <!-- Árazás Item -->
                                     <div class="col-md-4">
                                         <div class="pricing-item main">
                                             <div class="pricing-item-inner round">
@@ -667,36 +667,36 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         <i class="fa fa-gift" aria-hidden="true">
                                                         </i>
                                                     </div>
-                                                    <!-- Preisgestaltung Title -->
+                                                    <!-- Árazás Title -->
                                                     <div class="pricing-title">
-                                                        Standard
+                                                        Alapértelmezett
                                                     </div>
-                                                    <!-- Preisgestaltung Merkmale -->
+                                                    <!-- Árazás Jellemzők -->
                                                     <div class="pricing-features">
                                                         <ul class="sf-list pr-list">
                                                             <li>
-                                                                Premium-Streaming-Server
+                                                                Prémium streaming szerverek
                                                             </li>
                                                             <li>
-                                                                Geben Sie einen eindeutigen Ereignisnamen an
+                                                                Adjon meg egyedi eseménynevet
                                                             </li>
                                                             <li>
-                                                                Teilnehmer benötigen keine App
+                                                                A résztvevőknek nincs szükségük alkalmazásra
                                                             </li>
                                                             <li>
-                                                                Maßgeschneidertes Branding für Sie
+                                                                Személyre szabott márkaépítés az Ön számára
                                                             </li>
                                                             <li>
-                                                                Kein Streaming-Zeitlimit
+                                                                Nincs streamelési időkorlát
                                                             </li>
                                                             <li>
-                                                                Obszöne Textfilterung
+                                                                Obszcén szöveg szűrése
                                                             </li>
                                                             <li>
-                                                                Rabatt für Mini-Moscheen
+                                                                Kedvezmény a mini mecsetekre
                                                             </li>
                                                             <li>
-                                                                3-tägige Testversion und technischer Support
+                                                                3 napos próbaverzió és műszaki támogatás
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -707,20 +707,20 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         50
                                                     </div>
                                                     <div class="pr-per">
-                                                        pro Tag
+                                                        naponta
                                                     </div>
                                                     <!-- Button -->
                                                     <div class="pr-button">
                                                         <a href="https://app.conferencecaptioning.com" class="btn btn-mod btn-w btn-small round">
-                                                            Versuch's jetzt
+                                                            Próbálja ki most
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Preisgestaltung Item -->
-                                    <!-- Preisgestaltung Item -->
+                                    <!-- End Árazás Item -->
+                                    <!-- Árazás Item -->
                                     <div class="col-md-4">
                                         <div class="pricing-item">
                                             <div class="pricing-item-inner round">
@@ -730,57 +730,57 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         <i class="fa fa-suitcase" aria-hidden="true">
                                                         </i>
                                                     </div>
-                                                    <!-- Preisgestaltung Title -->
+                                                    <!-- Árazás Title -->
                                                     <div class="pricing-title">
-                                                        Unternehmen
+                                                        Vállalkozás
                                                     </div>
-                                                    <!-- Preisgestaltung Merkmale -->
+                                                    <!-- Árazás Jellemzők -->
                                                     <div class="pricing-features">
                                                         <ul class="pr-list">
                                                             <li>
-                                                                Machen Sie Veranstaltungen geheim und sicher
+                                                                Legyen titkos és biztonságos az események
                                                             </li>
                                                             <li>
-                                                                Nutzungsberichte am Ende der Veranstaltungen
+                                                                Használati jelentések az események végén
                                                             </li>
                                                             <li>
-                                                                Erhalten Sie Live-Übersetzungen
+                                                                Élő fordítások beszerzése
                                                             </li>
                                                             <li>
-                                                                API-Zugriff
+                                                                API hozzáférés
                                                             </li>
                                                             <li>
-                                                                Zusätzliche Anpassungen und Staffelpreise
+                                                                További testreszabások és tömeges árképzés
                                                             </li>
                                                             <li>
-                                                                Persönlicher Kundensupport
+                                                                Személyes ügyfélszolgálat
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="pricing-num">
-                                                        Kontakt
+                                                        Kapcsolatba lépni
                                                     </div>
                                                     <div class="pr-per">
-                                                        Für einen Kostenvoranschlag wenden Sie sich bitte an unser Vertriebsteam
+                                                        Értékesítési csapatunk becslést kér
                                                     </div>
                                                     <!-- Button -->
                                                     <div class="pr-button">
                                                         <a href="mailto:hi@deafassistant.com" class="btn btn-mod btn-w btn-small round">
-                                                            Kontaktiere uns
+                                                            Lépjen kapcsolatba velünk
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Preisgestaltung Item -->
+                                    <!-- End Árazás Item -->
                                 </div>
-                                <!-- End Preisgestaltung row -->
+                                <!-- End Árazás row -->
                             </div>
                             <div class="tab-pane fade show active" id="yearly" role="tabpanel" aria-labelledby="yearly-tab">
-                                <!-- Preisgestaltung row -->
+                                <!-- Árazás row -->
                                 <div class="row">
-                                    <!-- Preisgestaltung Item -->
+                                    <!-- Árazás Item -->
                                     <div class="col-md-4">
                                         <div class="pricing-item">
                                             <div class="pricing-item-inner round">
@@ -790,48 +790,48 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         <i class="fa fa-paper-plane" aria-hidden="true">
                                                         </i>
                                                     </div>
-                                                    <!-- Preisgestaltung Title -->
+                                                    <!-- Árazás Title -->
                                                     <div class="pricing-title">
-                                                        Start
+                                                        Rajt
                                                     </div>
-                                                    <!-- Preisgestaltung Merkmale -->
+                                                    <!-- Árazás Jellemzők -->
                                                     <div class="pricing-features">
                                                         <ul class="sf-list pr-list">
                                                             <li>
-                                                                Live-Transkription für Veranstaltungen
+                                                                Élő átirat az eseményekhez
                                                             </li>
                                                             <li>
-                                                                Zugang für Teilnehmer und Organisatoren
+                                                                Résztvevő és szervező hozzáférés
                                                             </li>
                                                             <li>
-                                                                16 frei verfügbare Streams
+                                                                16 szabadon elérhető stream
                                                             </li>
                                                             <li>
-                                                                15-Minuten-Limit pro Stream
+                                                                15 perces limit streamenként
                                                             </li>
                                                             <li>
-                                                                Unterstützt mehr als 20 Sprachen
+                                                                20+ nyelvet támogat
                                                             </li>
                                                             <li>
-                                                                15-sekündiges Einrichten und Benutzen mit drei Fingertipps
+                                                                15 másodperces 3 érintéssel történő beállítás és használat
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="pricing-num">
-                                                        FREI
+                                                        INGYENES
                                                     </div>
                                                     <div class="pr-per">
                                                     </div>
                                                     <!-- Button -->
                                                     <!-- <div class="pr-button">
-                                                            <a href="app/index.html" class="btn btn-mod btn-small round">Versuch's jetzt</a>
+                                                            <a href="app/index.html" class="btn btn-mod btn-small round">Próbálja ki most</a>
                                                         </div> -->
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Preisgestaltung Item -->
-                                    <!-- Preisgestaltung Item -->
+                                    <!-- End Árazás Item -->
+                                    <!-- Árazás Item -->
                                     <div class="col-md-4">
                                         <div class="pricing-item main">
                                             <div class="pricing-item-inner round">
@@ -841,33 +841,33 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         <i class="fa fa-gift" aria-hidden="true">
                                                         </i>
                                                     </div>
-                                                    <!-- Preisgestaltung Title -->
+                                                    <!-- Árazás Title -->
                                                     <div class="pricing-title">
-                                                        Standard
+                                                        Alapértelmezett
                                                     </div>
-                                                    <!-- Preisgestaltung Merkmale -->
+                                                    <!-- Árazás Jellemzők -->
                                                     <div class="pricing-features">
                                                         <ul class="sf-list pr-list">
                                                             <li>
-                                                                Premium-Streaming-Server
+                                                                Prémium streaming szerverek
                                                             </li>
                                                             <li>
-                                                                Geben Sie einen eindeutigen Ereignisnamen an
+                                                                Adjon meg egyedi eseménynevet
                                                             </li>
                                                             <li>
-                                                                Teilnehmer nutzen eine Webseite
+                                                                A résztvevők egy weboldalt használnak
                                                             </li>
                                                             <li>
-                                                                Maßgeschneidertes Branding für Sie
+                                                                Személyre szabott márkaépítés az Ön számára
                                                             </li>
                                                             <li>
-                                                                Kein Streaming-Zeitlimit
+                                                                Nincs streamelési időkorlát
                                                             </li>
                                                             <li>
-                                                                Rabatt für gemeinnützige Organisationen verfügbar
+                                                                Kedvezmény nonprofit szervezetek számára elérhető
                                                             </li>
                                                             <li>
-                                                                7-Tage-Testversion und technischer Support
+                                                                7 napos próbaverzió és műszaki támogatás
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -878,20 +878,20 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         200
                                                     </div>
                                                     <div class="pr-per">
-                                                        pro Monat
+                                                        havonta
                                                     </div>
                                                     <!-- Button -->
                                                     <div class="pr-button">
                                                         <a href="https://app.conferencecaptioning.com" class="btn btn-mod btn-w btn-small round">
-                                                            Versuch's jetzt
+                                                            Próbálja ki most
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Preisgestaltung Item -->
-                                    <!-- Preisgestaltung Item -->
+                                    <!-- End Árazás Item -->
+                                    <!-- Árazás Item -->
                                     <div class="col-md-4">
                                         <div class="pricing-item">
                                             <div class="pricing-item-inner round">
@@ -901,57 +901,57 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         <i class="fa fa-suitcase" aria-hidden="true">
                                                         </i>
                                                     </div>
-                                                    <!-- Preisgestaltung Title -->
+                                                    <!-- Árazás Title -->
                                                     <div class="pricing-title">
-                                                        Unternehmen
+                                                        Vállalkozás
                                                     </div>
-                                                    <!-- Preisgestaltung Merkmale -->
+                                                    <!-- Árazás Jellemzők -->
                                                     <div class="pricing-features">
                                                         <ul class="pr-list">
                                                             <li>
-                                                                Fähigkeit, Ereignisse geheim und sicher zu machen
+                                                                Képes az események titkosítására és biztonságossá tételére
                                                             </li>
                                                             <li>
-                                                                Erhalten Sie Nutzungsberichte am Ende der Veranstaltungen
+                                                                Kapjon használati jelentéseket az események végén
                                                             </li>
                                                             <li>
-                                                                Erhalten Sie Live-Übersetzungen
+                                                                Élő fordítások beszerzése
                                                             </li>
                                                             <li>
-                                                                API-Zugriff
+                                                                API hozzáférés
                                                             </li>
                                                             <li>
-                                                                Zusätzliche Anpassungen oder Staffelpreise
+                                                                További testreszabások vagy tömeges árképzés
                                                             </li>
                                                             <li>
-                                                                Persönlicher Kundensupport
+                                                                Személyes ügyfélszolgálat
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="pricing-num">
-                                                        Kontakt
+                                                        Kapcsolatba lépni
                                                     </div>
                                                     <div class="pr-per">
-                                                        Für einen Kostenvoranschlag wenden Sie sich bitte an unser Vertriebsteam
+                                                        Értékesítési csapatunk becslést kér
                                                     </div>
                                                     <!-- Button -->
                                                     <div class="pr-button">
                                                         <a href="mailto:hi@deafassistant.com" class="btn btn-mod btn-w btn-small round">
-                                                            Kontaktiere uns
+                                                            Lépjen kapcsolatba velünk
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Preisgestaltung Item -->
+                                    <!-- End Árazás Item -->
                                 </div>
-                                <!-- End Preisgestaltung row -->
+                                <!-- End Árazás row -->
                             </div>
                         </div>
                     </div>
                 </section>
-                <!-- End Preisgestaltung Section -->
+                <!-- End Árazás Section -->
                 <!-- Divider -->
                 <hr class="mt-0 mb-0 white" />
                 <!-- End Divider -->
@@ -992,15 +992,15 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         </div>
                     </section> -->
                 <!-- End Newsletter Section -->
-                <!-- Kontakt Section -->
+                <!-- Kapcsolatba lépni Section -->
                 <section class="page-section bg-dark light-content" id="contact">
                     <div class="container relative">
                         <div class="text-center mb-80 mb-sm-50">
                             <h2 class="section-title">
-                                Kontakt
+                                Kapcsolatba lépni
                             </h2>
                             <p class="section-title-descr">
-                                Rufen Sie uns an oder besuchen Sie uns zu den regulären Geschäftszeiten
+                                Hívjon vagy látogasson el hozzánk a szokásos munkaidőben
                             </p>
                         </div>
                         <div class="row mb-60 mb-xs-40">
@@ -1014,20 +1014,20 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </i>
                                             </div>
                                             <div class="ci-title">
-                                                Rufen Sie uns an
+                                                Hívjon minket
                                             </div>
                                             <div class="ci-text">
                                                 +1 214 683 9508
                                             </div>
                                             <div class="ci-link">
                                                 <a href="tel:2146839508">
-                                                    Jetzt anrufen
+                                                    Hívj most
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- End Phone -->
-                                    <!-- Adresse -->
+                                    <!-- Cím -->
                                     <div class="col-sm-6 col-lg-4 pb-20">
                                         <div class="contact-item wow fadeScaleIn" data-wow-delay=".1s" data-wow-duration="1s">
                                             <div class="ci-icon">
@@ -1035,19 +1035,19 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </i>
                                             </div>
                                             <div class="ci-title">
-                                                Adresse
+                                                Cím
                                             </div>
                                             <div class="ci-text">
                                                 2200 Hunt St, Ste 466
                                             </div>
                                             <div class="ci-link">
                                                 <a href="https://maps.app.goo.gl/YiYLtbvmfFs83seq6" target="_blank">
-                                                    Siehe auf der Karte
+                                                    Lásd a Térképen
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Adresse -->
+                                    <!-- End Cím -->
                                     <!-- Email -->
                                     <div class="col-sm-6 col-lg-4 pb-20">
                                         <div class="contact-item wow fadeScaleIn" data-wow-delay=".2s" data-wow-duration="1s">
@@ -1063,7 +1063,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             </div>
                                             <div class="ci-link">
                                                 <a href="mailto:hi@deafassistant.com">
-                                                    Sag Hallo
+                                                    Köszönj
                                                 </a>
                                             </div>
                                         </div>
@@ -1074,7 +1074,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         </div>
                     </div>
                 </section>
-                <!-- End Kontakt Section -->
+                <!-- End Kapcsolatba lépni Section -->
                 <!-- Google Map -->
                 <!-- <div class="google-map light-content">
                         
@@ -1104,49 +1104,49 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <i class="fa fa-play">
                             </i>
                             <span class="sr-only">
-                                Vimeo-Profil
+                                Vimeo profil
                             </span>
                         </a>
                         <a href="https://github.com/TheFirstPrototype" title="GitHub" target="_blank">
                             <i class="fab fa-github">
                             </i>
                             <span class="sr-only">
-                                GitHub-Profil
+                                GitHub profil
                             </span>
                         </a>
                         <a href="https://twitter.com/BeAware4Deaf" title="Twitter" target="_blank">
                             <i class="fab fa-twitter">
                             </i>
                             <span class="sr-only">
-                                Twitter-Profil
+                                Twitter profil
                             </span>
                         </a>
                         <a href="https://facebook.com/BeAware4Deaf" title="Facebook" target="_blank">
                             <i class="fab fa-facebook">
                             </i>
                             <span class="sr-only">
-                                Facebook Profil
+                                Facebook profil
                             </span>
                         </a>
                         <a href="https://linkedin.com/showcase/BeAware4Deaf" title="LinkedIn" target="_blank">
                             <i class="fab fa-linkedin">
                             </i>
                             <span class="sr-only">
-                                LinkedIn Profil
+                                LinkedIn profil
                             </span>
                         </a>
                         <a href="https://instagram.com/BeAware4Deaf" title="Instagram" target="_blank">
                             <i class="fab fa-instagram">
                             </i>
                             <span class="sr-only">
-                                Instagram-Profil
+                                Instagram profil
                             </span>
                         </a>
                         <a href="mailto:hi@deafassistant.com" title="Email" target="_blank">
                             <i class="fa fa-edit">
                             </i>
                             <span class="sr-only">
-                                E-Mail senden
+                                Küldjön e-mailt
                             </span>
                         </a>
                     </div>
@@ -1162,7 +1162,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         </div>
                         <!-- End Copyright -->
                         <div class="footer-made white">
-                            Mit Liebe für die Gehörlosen-Gemeinschaft gemacht.
+                            Szeretettel készült a d/siket közösség számára.
                         </div>
                     </div>
                     <!-- End Footer Text -->
@@ -1173,7 +1173,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <i class="link-to-top-icon">
                         </i>
                         <span class="sr-only">
-                            Nach oben scrollen
+                            Görgess a tetejére
                         </span>
                     </a>
                 </div>
