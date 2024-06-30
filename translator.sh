@@ -11,6 +11,17 @@ if [ ! -f "$TRANSLATION_FILE" ]; then
     exit 1
 fi
 
+# Create a temporary file to store JSON data
+tmp_file=$(mktemp)
+
+# Extract translations to temporary file
+jq -c ".[]" "$TRANSLATION_FILE" > "$tmp_file"
+
+# Function to escape special characters for sed
+escape_sed() {
+    echo "$1" | gsed -e 's/[\/&]/\\&/g' -e 's/(/\\(/g' -e 's/)/\\)/g'
+}
+
 # Iterate through each language and perform translations
 for lang in "${languageCodes[@]}"; do
     lowerCode=$(echo "$lang" | tr '[:upper:]' '[:lower:]')
@@ -23,15 +34,25 @@ for lang in "${languageCodes[@]}"; do
         # Generate sed commands for current language
         sed_commands=""
         while IFS= read -r line; do
-            en_value=$(echo "$line" | jq -r ".EN") # brew install jq, allows using json
-            lang_value=$(echo "$line" | jq -r ".$lang")
+            en_value=$(echo "$line" | jq -r '.EN // empty')
+            echo $en_value
+            lang_value=$(echo "$line" | jq -r ".$lang // empty")
+            echo $lang_value
+
             if [ -n "$en_value" ] && [ -n "$lang_value" ]; then
-                sed_commands+="s/\"$en_value\"/\"$lang_value\"/g;"
+                escaped_en_value=$(escape_sed "$en_value")
+                escaped_lang_value=$(escape_sed "$lang_value")
+                echo $escaped_en_value
+                echo $escaped_lang_value
+                # Use different delimiter in sed command to avoid issues with special characters
+                sed_commands+="s#${escaped_en_value}#${escaped_lang_value}#g;"
+# sudo sed -i    "s/#Banner none/Banner \/etc\/sshd_banner" /etc/sshd_config OLD
+# sudo sed -i ""  "s|#Banner none|Banner /etc/sshd_banner|" /etc/sshd_config MAC
             fi
-        done < "$TRANSLATION_FILE"
+        done < "$tmp_file"
 
         # Perform sed replacement on the HTML file
-        sed -i.bak -E "$sed_commands" "$html_file"
+        gsed -i.bak -e "$sed_commands" "$html_file"
         echo "Translations applied for language '$lang'."
     fi
 done
