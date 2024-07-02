@@ -4493,19 +4493,19 @@ a.blog-item-more:hover{
 }
 .pagination a:hover{
     text-decoration: none;
-    border-color: #bbb;
+    border-color: #cbcbcb;
     color: #444;
 }
 .pagination a.active,
 .pagination a.active:hover{
-    border-color: #bbb;
+    border-color: #cbcbcb;
     color: #444;
     cursor: default;
 }
 .pagination a.no-active,
 .pagination a.no-active:hover{
     border-color: #efefef;
-    color: #bbb;
+    color: #cbcbcb;
     cursor: default;
 }
 
