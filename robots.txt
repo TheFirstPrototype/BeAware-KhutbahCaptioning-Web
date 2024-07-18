@@ -6,5 +6,5 @@ Allow: *.png
 Allow: *.gif
 Disallow: /manager/
 
-Host: https://conferencecaptioning.com
-Sitemap: https://conferencecaptioning.com/sitemap.xml
+Host: https://khutbahcaptioning.com
+Sitemap: https://khutbahcaptioning.com/sitemap.xml
